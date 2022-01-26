@@ -1,9 +1,6 @@
 # LearnGolang
-## pratice api golang
-
-### Test My text : Build set up
+### install golang version 1.17.6
 ``` bash
-# my code learn install golang version
 # How to check verison golang version
 $ go version
 ```
