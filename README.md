@@ -7,4 +7,4 @@
 # How to check verison golang version
 $ go version
 ```
-![go_version](https://github.com/[panupng26]/[LearnGolang]/pctest.png?raw=true)
+![go_version](https://github.com/panupng26/LearnGolang/blob/main/pctest.PNG?raw=true)
