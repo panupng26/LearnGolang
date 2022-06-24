@@ -4,11 +4,10 @@ import (
 	"fmt"
 )
 
-func test() {
-	fmt.Println("Hello Bank")
-}
-
 func main() {
-	fmt.Println("Hello Golang")
-	test()
+	// var msg string = "Bank Hello"
+	// fmt.Println(msg)
+	// test()
+	// fmt.Println("กูแบงค์")
+	fmt.Println("Hey Bank")
 }
