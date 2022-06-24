@@ -6,7 +6,10 @@ $ go version
 ```
 ![go_version](https://github.com/panupng26/LearnGolang/blob/main/pctest.PNG?raw=true)
 
+### install Nodemon for windows autosave and runtime
 ```
+$ npm i -g nodemon
+
 $ nodemon --exec go run index.go
 
 {
