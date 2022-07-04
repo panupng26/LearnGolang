@@ -2,5 +2,6 @@
     "[go]": {
         "editor.formatOnSave": false
     },
+    "gopls": { "ui.diagnostic.staticcheck": false },
     "nuxt.isNuxtApp": false
 }
